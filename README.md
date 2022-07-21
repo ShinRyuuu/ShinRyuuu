@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShinRyuuu
+- 👋 Hi, I’m Justin
 - 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Vue and Laravel
+- 🌱 I’m currently learning css
 - 📫 Instagram: @itsmiruku_
 
 
